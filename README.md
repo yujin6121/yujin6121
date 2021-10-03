@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subak7676)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://discord.gg/XaCFHQGsnp" target="_blank"><img src="https://simpleicons.org/icons/discord.svg"/></a>
+<a href="https://discord.gg/XaCFHQGsnp" target="_blank"><img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FTV8a8%2FbtqE571CUG0%2FfIjNTueRgWNhMtZXlKklhk%2Fimg.png"/></a>
