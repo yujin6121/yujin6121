@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/XaCFHQGsnp" target="_blank"><img src="https://img.utdstc.com/icon/a4a/8a6/a4a8a6b50439dd0a020cc3b1b971df3af09ae118578014799abd16ac23be6649:200"/></a>
 
 <img src="https://w.namu.la/s/d85d3c39fd3b225bc05fd8d64fb4f334200644f7154148283e6dc731e25f9ac20a52aafd3de51e7e88dcb35cf7582cfcea9c9b65e530ec41178ea063f131fcc775dac1e76eb7d0dec2a8e929ade037463e972af08a6d26daf6b454689d0ca8bd">
+
+깃허브 프로필 어쩌다 이렇게 됐지?
+나 왜 이러냐
