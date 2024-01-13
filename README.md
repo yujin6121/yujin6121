@@ -14,7 +14,7 @@
 ## :telephone_receiver: Contacts
 **Discord**: [![Discord](https://img.shields.io/badge/jeonghee-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/673471748599054336)
 
-**E-Mail**: [![Outlook](https://img.shields.io/badge/me@jeonghee.xyz-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:me@jeonghee.xyz)
+**E-Mail**: [![Outlook](https://img.shields.io/badge/ujin6121@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:ujin6121@gmail.com)
 
 ## 📚 Technologies
 ### 💻 Languages
