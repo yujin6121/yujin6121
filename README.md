@@ -1,9 +1,9 @@
 # Hi there 👋
 
 ## ✨About Me
-🎂 **Birhday**: 2007.09.11
+🎂 **Birhday**: 2008.12.16
 
-🤵 **School Currently Attending**: Hanam Management High School (하남경영고등학교)
+🤵 **School Currently Attending**: High School
 
 👨‍🎓 **School Graduated From**: Deokpung Middle School (덕풍중학교), Hanam Pungsan Elementary School (하남풍산초등학교)
 
