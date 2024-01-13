@@ -11,14 +11,6 @@
 
 :speaking_head: **Language**: Korean(Native), English(Basic), Japanese(Baisc)
 
-
-### 💾 Databases
-![mySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-
-## ⚡ Metrics
-##### Github Status
-![jeongheegenius's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongheegenius&show_icons=true&theme=tokyonight)
-
 ##### Top Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongheegenius&layout=compact&theme=tokyonight)
 
