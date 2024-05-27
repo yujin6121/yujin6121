@@ -5,7 +5,7 @@
 
 🤵 **School Currently Attending**: High School
 
-👨‍🎓 **School Graduated From**:  Middle School (), Elementary School ()
+👨‍🎓 **School Graduated From**:  Middle School , Elementary School
 
 💙**Interested In**: Watching YouTube, Listening To Music
 
