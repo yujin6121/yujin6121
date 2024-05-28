@@ -11,6 +11,11 @@
 
 :speaking_head: **Language**: Korean(Native), English(Basic), Japanese(Noob)
 
+## :telephone_receiver: Contacts
+**Discord**: [![Discord](https://img.shields.io/badge/yujin-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/551212082645827594)
+
+**E-Mail**: [![Outlook](https://img.shields.io/badge/me@yujin6121.xyz-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:me@yujin6121.xyz)
+
 <!---->
 <!--
 **subak7676/subak7676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
