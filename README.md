@@ -9,7 +9,7 @@
 
 💙**Interested In**: Watching YouTube, Listening To Music
 
-:speaking_head: **Language**: Korean(Native), English(Basic), Japanese(Baisc)
+:speaking_head: **Language**: Korean(Native), English(Basic), Japanese(Noob)
 
 <!---->
 <!--
