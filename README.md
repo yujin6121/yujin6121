@@ -14,7 +14,7 @@
 ## :telephone_receiver: Contacts
 **Discord**: [![Discord](https://img.shields.io/badge/yujin-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/551212082645827594)
 
-**E-Mail**: [![Outlook](https://img.shields.io/badge/me@yujin6121.xyz-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:me@yujin6121.xyz)
+**E-Mail**: [![Outlook](https://img.shields.io/badge/me@yujin6121.xyz-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:dev@yujin6121.xyz)
 
 <!---->
 <!--
