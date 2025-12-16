@@ -32,8 +32,6 @@
 
 ### 🔥 GitHub Stats for yujin6121
 
-<p align="center">
+<p></p>
     <img src="https://github-readme-stats.vercel.app/api?username=yujin6121&show_icons=true&theme=vue-dark" alt="yujin6121's GitHub Stats" />
-    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin6121&layout=compact&theme=vue-dark" alt="yujin6121's Top Languages" />
-</p>
