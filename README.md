@@ -9,14 +9,6 @@
 
 ---
 
-## 🚀 My GitHub Activity & Goals
-
-현재 제가 가장 집중하고 있는 분야와 목표입니다!
-
-* 🌱 **I’m currently learning**: **Svelte**와 **React**를 활용한 흥미로운 **프론트엔드 프로젝트**를 만들고 있어요.
-* 💡 **I’m looking to collaborate on**: **Node.js 기반 웹 서버** 구축이나 **Python 자동화 스크립트** 프로젝트에 함께 하고 싶습니다!
-* 💬 **Ask me about**: **웹 개발** (프론트/백엔드) 또는 **C 언어 기반의 기초 프로그래밍**에 대해 질문해 주세요!
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -42,8 +34,5 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yujin6121&show_icons=true&theme=vue-dark" alt="yujin6121's GitHub Stats" />
-</p>
-
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin6121&layout=compact&theme=vue-dark" alt="yujin6121's Top Languages" />
 </p>
