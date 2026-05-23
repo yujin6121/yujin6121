@@ -1,3 +1,4 @@
+<div align="center">
 # 안녕하세요! 저는 유진(Yujin)입니다 👋
 
 ## ✨ About Me
