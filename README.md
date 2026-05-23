@@ -3,7 +3,7 @@
 ## ✨ About Me
 * **Birth Date**: 🎂 December 16
 * **Education**: 🎓 Currently attending **High School**
-* **Interests**: 📺 Watching YouTube, 🎶 Listening to Music, 💻 Exploring new technologies
+* **Interests**: 📺 Watching YouTube, 🎶 Listening to Music
 * **Languages**: 🇰🇷 Korean (Native), 🇬🇧 English (Basic), 🇯🇵 Japanese (Noob)
 
 ---
