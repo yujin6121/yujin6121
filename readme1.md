@@ -1,11 +1,4 @@
-# 👋 안녕하세요! 세상에 가치를 더하고 싶은 유진(Yujin)입니다.
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
-
-> 🚀 새로운 기술을 탐색하고 활용하는 것을 즐기는 고등학생 개발자입니다.  
-> 호기심을 기반으로 끊임없이 배우고 성장하는 과정을 기록하고 있습니다.
+# 👋 안녕하세요! 유진(Yujin)입니다.
 
 ---
 
