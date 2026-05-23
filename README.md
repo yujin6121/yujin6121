@@ -26,12 +26,6 @@
 
 ## :telephone_receiver: Contact Me
 
-* **E-Mail**: [![Outlook](https://img.shields.io/badge/dev@yujin6121.xyz-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:dev@yujin6121.xyz)
+* **E-Mail**: [![Outlook](https://img.shields.io/badge/dev@theyujin.me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:dev@theyujin.me)
 
 ---
-
-### 🔥 GitHub Stats for yujin6121
-
-<p></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=yujin6121&show_icons=true&theme=vue-dark" alt="yujin6121's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin6121&layout=compact&theme=vue-dark" alt="yujin6121's Top Languages" />
