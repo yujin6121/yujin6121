@@ -10,8 +10,6 @@
 
 ## 🛠️ Tech Stack & Tools
 
-제가 주로 사용하거나 관심 있게 다루는 기술들입니다.
-
 | Category | Tools/Languages |
 | :---: | :--- |
 | 🎨 **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> |
